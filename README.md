@@ -1,0 +1,15 @@
+# CateteriaMgmtSys
+
+
+
+USERNAME & PASSWORD 
+
+USERNAME : user
+
+PASSWORD : pass
+
+
+
+
+
+THANK YOU FOR DOWNLOADING! :) 
