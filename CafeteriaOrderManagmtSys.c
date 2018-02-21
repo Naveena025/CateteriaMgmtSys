@@ -61,9 +61,9 @@ void login()
 {
 	
     printf("\n  \xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\  LOGIN FORM  \xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\   ");
-    printf(" \n\n                  ENTER USERNAME:-");
+    printf(" \n\n                  ENTER USERNAME!!!:-");
 	scanf("%s", &uname); 
-	printf(" \n\n                  ENTER PASSWORD:-");
+	printf(" \n\n                  ENTER PASSWORD!!!:-");
 	while(i<10)
 	{
 	    pword[i]=getch();
